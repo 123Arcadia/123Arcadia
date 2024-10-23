@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
-- 😄 Read more about my blog: [hexo](https://123arcadia.github.io/)、[csdn](https://blog.csdn.net/zcw322?type=sub&spm=1001.2014.3001.5348)
+- 😄 Read more about my blog: [notion](https://123arcadia.notion.site/AIsys-7b95c82639bf41aabd25fdf5ee51c4e8)、[hexo](https://123arcadia.github.io/)、[csdn](https://blog.csdn.net/zcw322?type=sub&spm=1001.2014.3001.5348)
 
 ![](https://github-readme-stats.vercel.app/api?username=123Arcadia&show_icons=true&theme=transparent)
 
